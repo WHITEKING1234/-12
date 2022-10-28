@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		049D99122905A0B8000B2FB8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049D99112905A0B8000B2FB8 /* main.swift */; };
+		049D99252905DFC6000B2FB8 /* app2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049D99242905DFC6000B2FB8 /* app2.swift */; };
+		049D992829066663000B2FB8 /* 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049D992729066663000B2FB8 /* 1.swift */; };
+		049D992A2906670D000B2FB8 /* 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049D99292906670D000B2FB8 /* 2.swift */; };
+		049D992C29066AD6000B2FB8 /* backend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049D992B29066AD6000B2FB8 /* backend.swift */; };
+		049D99E6290BCBDD000B2FB8 /* дз2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049D99E5290BCBDD000B2FB8 /* дз2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,12 @@
 /* Begin PBXFileReference section */
 		049D990E2905A0B8000B2FB8 /* дом работау1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "дом работау1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		049D99112905A0B8000B2FB8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		049D99242905DFC6000B2FB8 /* app2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = app2.swift; sourceTree = "<group>"; };
+		049D992729066663000B2FB8 /* 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.swift; sourceTree = "<group>"; };
+		049D99292906670D000B2FB8 /* 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.swift; sourceTree = "<group>"; };
+		049D992B29066AD6000B2FB8 /* backend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backend.swift; sourceTree = "<group>"; };
+		049D99E5290BCBDD000B2FB8 /* дз2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "дз2.swift"; sourceTree = "<group>"; };
+		049D99E9290BF91B000B2FB8 /* дом работау1 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "дом работау1"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +68,23 @@
 		049D99102905A0B8000B2FB8 /* дом работау1 */ = {
 			isa = PBXGroup;
 			children = (
+				049D99E9290BF91B000B2FB8 /* дом работау1 */,
+				049D992629066643000B2FB8 /* дома работа номер! */,
+				049D99292906670D000B2FB8 /* 2.swift */,
 				049D99112905A0B8000B2FB8 /* main.swift */,
+				049D99242905DFC6000B2FB8 /* app2.swift */,
+				049D992729066663000B2FB8 /* 1.swift */,
+				049D992B29066AD6000B2FB8 /* backend.swift */,
 			);
 			path = "дом работау1";
+			sourceTree = "<group>";
+		};
+		049D992629066643000B2FB8 /* дома работа номер! */ = {
+			isa = PBXGroup;
+			children = (
+				049D99E5290BCBDD000B2FB8 /* дз2.swift */,
+			);
+			path = "дома работа номер!";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +145,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				049D992A2906670D000B2FB8 /* 2.swift in Sources */,
 				049D99122905A0B8000B2FB8 /* main.swift in Sources */,
+				049D99252905DFC6000B2FB8 /* app2.swift in Sources */,
+				049D992C29066AD6000B2FB8 /* backend.swift in Sources */,
+				049D992829066663000B2FB8 /* 1.swift in Sources */,
+				049D99E6290BCBDD000B2FB8 /* дз2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
